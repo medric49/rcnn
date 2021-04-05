@@ -11,5 +11,7 @@ We use in this project
 * Matlplotlib
 
 ## Installation
-We use in this project 
+* Clone this repo
+* Open the project
+* Clone the repo [yorutorch](https://github.com/medric49/yorutorch) in the project. We use it to simplify model trainings.
 
